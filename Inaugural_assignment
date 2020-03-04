@@ -1,0 +1,8 @@
+# Construct a function which solves equation (1) given the parameters.
+
+m = 1
+v = 10
+eps = 0.3
+t_0 = 0.4
+t_1 = 0.1
+kappa = 0.4
